@@ -11,7 +11,7 @@
 Repos. inicial: https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos-LeetCode_Problems
 Resolução de exercício do LeetCode, alguns exercício possuem scripts no final para poderem sr executados localmente sem a necessidade de testar no LeetCode
 
-[Apresentação dos Problemas Resolvidos](https://www.youtube.com/watch?v=YMWz2BpThz8) 
+[Apresentação dos Problemas Resolvidos](https://youtu.be/-F1_wgeV-uw) 
 
 ## Screenshots
 
