@@ -1,4 +1,4 @@
-# D-C-59_LeetCode_Problems
+# AlgoritmosAmbiciosos-LeetCode_Problems
 
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
