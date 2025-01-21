@@ -1,44 +1,44 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# D-C-59_LeetCode_Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0043030  |  Renann de Oliveira Gomes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Repos. inicial: https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos-LeetCode_Problems
+Resolução de exercício do LeetCode, alguns exercício possuem scripts no final para poderem sr executados localmente sem a necessidade de testar no LeetCode
+
+[Apresentação dos Problemas Resolvidos](https://www.youtube.com/watch?v=YMWz2BpThz8) 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 322. Coin Change
+
+![image](./images/image1.png)
+
+### 518. Coin Change II
+
+![image](./images/image2.png)
+
+## 1851. Minimum Interval to Include Each Query
+
+![image](./images/image3.png)
+
+## 435. Non-overlapping Intervals
+
+![image](./images/image4.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+Python instalado localmente ou acesso a plataforma LeetCode
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+É possível executar o código localmente ou copiando apenas a classe "Solution" e rodar na plataforma do LeetCode
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
